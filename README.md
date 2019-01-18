@@ -1,2 +1,2 @@
-# docker-multiarch-example
-Ein Beispiel für einfache Multiarchitektur-Container mit Docker
+# docker-autobuild-example
+Ein Beispiel für automatisch erzeugte Images mit dem Docker Hub
