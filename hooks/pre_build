@@ -3,4 +3,4 @@
 # current one, but also remove all registered binfmt_misc before
 apk help
 apt-get help
-docker run --rm --privileged multiarch/qemu-user-static:register --reset
+docker run --rm --privileged multiarch/qemu-user-static:register
